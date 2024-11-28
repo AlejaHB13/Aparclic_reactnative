@@ -12,6 +12,7 @@ Aparclic permite a los propietarios de parqueaderos registrar usuarios, gestiona
 5. **Cálculo de tarifas**: Muestra el total a pagar y el tiempo de permanencia en el parqueadero.  
 6. **Visualización de características del parqueadero**: Detalla el tipo de vehículos aceptados, cantidad de espacios disponibles y tarifas por minuto.  
 
+
 ## 📦 Estructura de la base de datos en Firebase  
 ### **Usuarios**  
 - `usuarioId` (string, único): Identificador único del usuario.  
@@ -61,3 +62,8 @@ Aparclic permite a los propietarios de parqueaderos registrar usuarios, gestiona
 
 ## 🎨 Diseño de la interfaz
 https://www.figma.com/proto/i7LuQUmtDnIir660bzbeD2/Aparclic?node-id=1-4&t=yZ9Aw2B8IP8cAo3O-1
+
+## Autores
+- [LauBelt](https://github.com/LauBelt)
+- [Pulidog26](https://github.com/Pulidog26)
+- [AlejaHB13](https://github.com/AlejaHB13) 
